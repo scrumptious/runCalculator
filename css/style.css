@@ -1,0 +1,9 @@
+ul  {
+	list-style-type: none;
+}
+li > input:hover, input:focus {
+	background-color: rgb(225, 255, 255);
+}
+.time > li {
+	display: inline;
+}
